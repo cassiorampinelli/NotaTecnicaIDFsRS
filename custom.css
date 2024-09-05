@@ -1,0 +1,7 @@
+.figure-caption {
+  font-style: italic;
+}
+
+.figure-caption::before {
+  content: "Figura ";
+}
